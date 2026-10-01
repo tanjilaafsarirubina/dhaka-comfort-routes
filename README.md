@@ -1,6 +1,6 @@
 # Dhaka Comfort Routes
 
-**Live demo: https://sandipkumarpaul.github.io/dhaka-comfort-routes/** (works best on a phone)
+**Live demo: https://tanjilaafsarirubina.github.io/dhaka-comfort-routes/** (works best on a phone)
 
 A prototype walking router for Dhaka. It steers pedestrians around streets that other people reported as uncomfortable, and it keeps the people who report anonymous. It is part of our undergraduate thesis at BRAC University, *A Privacy-Preserving Crowdsensing Framework for Subjective Urban Safety and Navigation in Dhaka*.
 
