@@ -34,3 +34,6 @@ Supervisor: Marshia Nujhat. Co-supervisor: Dr. Farida Chowdhury.
 ## Credits and licences
 
 Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the Open Database License (ODbL 1.0). The area files in `areas/` and the map built into `index.html` are derived from it and are shared under the same licence. The map is drawn with [Leaflet](https://leafletjs.com/) (BSD-2-Clause).
+
+## Copyright
+© 2026 Sandip Kumar Paul and Tanjila Afsari Rubina. All rights reserved. The app's code and text may not be reused without our permission. Leaflet and the OpenStreetMap-derived map data keep their own licences.
